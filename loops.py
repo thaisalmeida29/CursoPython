@@ -67,3 +67,13 @@ for value in [9, 41, 12, 3, 74, 15] :
         smallest = value
     print(smallest, value)
 print("After: ", smallest)    
+
+
+tot = 0 
+for i in [5, 4, 3, 2, 1] :
+    tot = tot + 1
+print(tot)
+
+
+if smallest is None :
+     smallest = value
