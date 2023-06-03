@@ -1,0 +1,24 @@
+Escrever programas ou programar é uma atividade muito criativa
+e atividade gratificante Você pode escrever programas para
+muitas razões, desde ganhar a vida até resolver
+um problema difícil de análise de dados para se divertir para ajudar
+outra pessoa resolver um problema Este livro assume que
+{\em todos} precisa saber programar e isso uma vez
+você sabe programar, você vai descobrir o que quer
+a ver com suas habilidades recém-descobertas
+
+Estamos cercados em nossas vidas diárias por computadores que variam
+de laptops a telefones celulares Podemos pensar nesses computadores
+como nossos assistentes pessoais que podem cuidar de muitas coisas
+em nosso nome O hardware em nossos computadores atuais
+é essencialmente construído para nos fazer continuamente a pergunta
+O que você gostaria que eu fizesse a seguir
+
+Nossos computadores são rápidos e possuem vastas quantidades de memória e
+poderia ser muito útil para nós se apenas conhecêssemos o idioma para
+falar para explicar ao computador o que gostaríamos
+fazer a seguir Se soubéssemos esse idioma, poderíamos dizer o
+computador para fazer tarefas em nosso nome que eram repetitivas  
+Curiosamente, os tipos de coisas que os computadores podem fazer melhor
+muitas vezes são os tipos de coisas que nós, humanos, achamos chatos
+e entorpecente
